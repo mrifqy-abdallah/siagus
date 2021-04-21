@@ -1,0 +1,2 @@
+﻿namespace Siagus.Master {
+}

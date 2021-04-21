@@ -1,0 +1,100 @@
+{
+  "RootNamespace": "Siagus",
+  "ServerTypings": {
+    "Assemblies": [],
+    "LocalTexts": true
+  },
+  "Connections": [
+    {
+      "Key": "Default",
+      "Tables": [
+        {
+          "Tablename": "guru",
+          "Identifier": "Guru",
+          "Module": "Master",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "kelas",
+          "Identifier": "Kelas",
+          "Module": "Master",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "kelas_paralel",
+          "Identifier": "KelasParalel",
+          "Module": "Master",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "mapel",
+          "Identifier": "Mapel",
+          "Module": "Master",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "mapelguru_paralel",
+          "Identifier": "MapelguruParalel",
+          "Module": "Master",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "mapel_guru",
+          "Identifier": "MapelGuru",
+          "Module": "Master",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "mapel_kelas",
+          "Identifier": "MapelKelas",
+          "Module": "Master",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "prestasi",
+          "Identifier": "Prestasi",
+          "Module": "Master",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "riwayat_pendidikan",
+          "Identifier": "RiwayatPendidikan",
+          "Module": "Master",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "siswa",
+          "Identifier": "Siswa",
+          "Module": "Master",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "tatausaha",
+          "Identifier": "Tatausaha",
+          "Module": "Master",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "wali",
+          "Identifier": "Wali",
+          "Module": "Master",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "wali_siswa",
+          "Identifier": "WaliSiswa",
+          "Module": "Master",
+          "PermissionKey": "Administration:General"
+        }
+      ]
+    }
+  ],
+  "BaseRowClasses": [],
+  "RemoveForeignFields": [],
+  "CustomGenerate": {},
+  "CustomSettings": {},
+  "AppSettingFiles": [
+    "appsettings.json",
+    "appsettings.machine.json"
+  ]
+}
