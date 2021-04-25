@@ -1,6 +1,6 @@
 # About
 This is a project that I did during my 7th semester on the subject of Project Work.  
-This is a web-based project made using [Serenity platform](https://serenity.is/), and I designed it into a management system for schools administrator. The project is then called **SIAGUS**, which stands for _Sistem Administrasi Data Guru dan Siswa_ (It means: _Teachers and Students Data Administration System_).
+The project is web-based made using [Serenity platform](https://serenity.is/), and I designed it into a management system for schools administrator. The project is then called **SIAGUS**, which stands for _Sistem Administrasi Data Guru dan Siswa_ (It means: _Teachers and Students Data Administration System_).
 
 ## What can it do?
 Here are some things that the web can do: 
